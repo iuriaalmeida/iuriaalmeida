@@ -1,4 +1,5 @@
 # Olá! Eu sou o Iuri Alan ✌🏾
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iuri-alan-a02271166/)
   
 ## Minha Jornada
 
