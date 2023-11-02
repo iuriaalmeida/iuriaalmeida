@@ -12,3 +12,9 @@ Possuo uma mentalidade ágil e criativa, me destaco pela capacidade de aprender 
 
 ## Tecnologias
 ![HTML5](http://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=node.js&logoColor=white)
+
+<div>
+  <a href="https://github.com/iuriaalmeida">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iuriaalmeida&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iuriaalmeida&layout=compact&langs_count=16&theme=dracula"/>
+</div>
