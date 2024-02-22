@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000080&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000080&size=35&center=true&vCenter=true&width=1000&lines=OLÁ!+Eu+sou+o+Iuri+Alan+✌🏾;Eu+tenho+27+anos+de+idade.;Eu+sou+brasileiro.;Cursando+Técnico+em+Técnologia+da+Informação.)](htpps://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000080&size=35&center=true&vCenter=true&width=1000&lines=HELLO!+I'm+Iuri+Alan+✌🏾;Eu+tenho+27+anos+de+idade.;Eu+sou+brasileiro.;Cursando+Técnico+em+Técnologia+da+Informação.)](htpps://git.io/typing-svg)
 
 # Olá! Eu sou o Iuri Alan ✌🏾
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iuri-alan-a02271166/)
