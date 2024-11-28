@@ -7,7 +7,7 @@
 <a href = "mailto:iurilan1996@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
 ## Minha Jornada
-
+  <img height="250em" align="right" alt="Iuri-yoda" src="https://i.ibb.co/WvFkwMR/download20241103225821.png">
 Atualmente, estou em transição para a área de tecnologia, onde pretendo atuar como Desenvolvedor Web. Já sou formado em Técnico em Tecnologia da Informação e estou cursando graduação em Análise e Desenvolvimento de Sistemas pela Universidade Estácio de Sá. Além disso, venho me especializando pela plataforma ALURA e desenvolvendo projetos web para fortalecer meu portfólio e aprimorar meu currículo.
 <br><br>
 Possuo uma mentalidade ágil e criativa, destacando-me pela capacidade de aprender rapidamente e aplicar meus conhecimentos em projetos desafiadores. Estou sempre em busca de oportunidades para expandir meu aprendizado e aprimorar minhas habilidades técnicas e interpessoais.
@@ -28,3 +28,4 @@ Possuo uma mentalidade ágil e criativa, destacando-me pela capacidade de aprend
   <img align="center" alt="Iuri-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Iuri-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
+
