@@ -8,7 +8,7 @@
   
 ## Minha Jornada
   <img height="250em" align="right" alt="Iuri-yoda" src="https://i.ibb.co/WvFkwMR/download20241103225821.png">
-Atualmente, estou em transição para a área de tecnologia, onde pretendo atuar como Desenvolvedor Web. Já sou formado em Técnico em Tecnologia da Informação e estou cursando graduação em Análise e Desenvolvimento de Sistemas pela Universidade Estácio de Sá. Além disso, venho me especializando pela plataforma ALURA e desenvolvendo projetos web para fortalecer meu portfólio e aprimorar meu currículo.
+Atualmente, estou em transição para a área de tecnologia, onde pretendo atuar como Desenvolvedor Web. Já sou formado em Técnico em Tecnologia da Informação e Técnologo em Análise e Desenvolvimento de Sistemas pela Universidade Estácio de Sá. Além disso, venho me especializando pela plataforma ALURA e desenvolvendo projetos web para fortalecer meu portfólio e aprimorar meu currículo.
 <br><br>
 Possuo uma mentalidade ágil e criativa, destacando-me pela capacidade de aprender rapidamente e aplicar meus conhecimentos em projetos desafiadores. Estou sempre em busca de oportunidades para expandir meu aprendizado e aprimorar minhas habilidades técnicas e interpessoais.
 
